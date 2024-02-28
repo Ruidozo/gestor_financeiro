@@ -1,0 +1,73 @@
+ID Conta,Data,Valor,Descrição,Categoria
+1,30/08/2023,2158.2,Salário,Salário
+1,29/08/2023,2616.15,Salário,Salário
+1,19/08/2023,-44.36,Compras,Livraria Cultural
+1,04/08/2023,-18.78,Compras,Loja de Roupas
+1,20/08/2023,-38.2,Supermercado,Mercado Central
+1,14/08/2023,-35.4,Café,Coimbra Café
+1,04/08/2023,-145.67,Compras,Loja de Roupas
+1,26/08/2023,-12.19,Restaurante,Porto Gourmet
+1,16/08/2023,-105.52,Compras,Livraria Cultural
+1,06/08/2023,-106.69,Supermercado,Mercado Central
+1,24/08/2023,-36.4,Restaurante,Porto Gourmet
+1,09/08/2023,-80.5,Restaurante,Lisboa Bistro
+1,19/08/2023,-133.98,Compras,Livraria Cultural
+1,11/08/2023,-55.65,Lazer,Parque Aventura
+1,12/08/2023,-57.25,Supermercado,Alimentos Frescos
+1,24/08/2023,-12.07,Compras,Livraria Cultural
+1,22/08/2023,-110.59,Compras,Eletrônicos Modernos
+1,03/08/2023,-19.07,Lazer,Parque Aventura
+1,04/08/2023,-73.29,Restaurante,Porto Gourmet
+1,17/08/2023,-39.41,Restaurante,Lisboa Bistro
+1,07/08/2023,-40.52,Supermercado,Mercado Central
+1,23/08/2023,-134.39,Compras,Loja de Roupas
+1,26/08/2023,-25.23,Compras,Loja de Roupas
+1,22/08/2023,-102.64,Café,Coimbra Café
+1,11/08/2023,-89.27,Café,Coimbra Café
+1,05/08/2023,-20.44,Restaurante,Lisboa Bistro
+1,16/08/2023,-109.95,Lazer,Cinema do Bairro
+1,27/08/2023,-142.28,Lazer,Cinema do Bairro
+1,06/08/2023,-130.36,Compras,Compras Diárias
+1,26/08/2023,-62.13,Restaurante,Porto Gourmet
+1,05/08/2023,-75.4,Compras,Eletrônicos Modernos
+1,26/08/2023,-6.35,Compras,Livraria Cultural
+1,26/08/2023,-112.97,Lazer,Arte e Cultura
+1,26/08/2023,-149.64,Compras,Compras Diárias
+1,23/08/2023,-128.81,Compras,Compras Diárias
+1,31/08/2023,-34.78,Supermercado,Alimentos Frescos
+1,29/08/2023,-37.35,Lazer,Arte e Cultura
+2,25/10/2023,2128.18,Salário,Salário
+2,05/10/2023,-121.65,Coimbra Café,Café
+2,11/10/2023,-102.38,Alimentos Frescos,Supermercado
+2,02/10/2023,-98.18,Cinema do Bairro,Lazer
+2,16/10/2023,-24.03,Alimentos Frescos,Supermercado
+2,28/10/2023,-136.59,Coimbra Café,Café
+2,16/10/2023,-103.08,Livraria Cultural,Compras
+2,26/10/2023,-128.21,Coimbra Café,Café
+2,12/10/2023,-52.42,Livraria Cultural,Compras
+2,03/10/2023,-5.65,Porto Gourmet,Restaurante
+2,07/10/2023,-120.29,Loja de Roupas,Compras
+2,24/10/2023,-98.58,Loja de Roupas,Compras
+2,12/10/2023,-50.24,Cinema do Bairro,Lazer
+2,19/10/2023,-97.8,Loja de Roupas,Compras
+2,25/10/2023,-130.89,Lisboa Bistro,Restaurante
+2,19/10/2023,-34.38,Lisboa Bistro,Restaurante
+2,27/10/2023,-131.62,Livraria Cultural,Compras
+2,02/10/2023,-14.91,Mercado Central,Supermercado
+2,17/10/2023,-30.67,Livraria Cultural,Compras
+2,14/10/2023,-70.64,Lisboa Bistro,Restaurante
+2,15/10/2023,-37.06,Parque Aventura,Lazer
+2,04/10/2023,-148.17,Cinema do Bairro,Lazer
+2,23/10/2023,-141.42,Arte e Cultura,Lazer
+2,03/10/2023,-42.65,Arte e Cultura,Lazer
+2,31/10/2023,-129.06,Lisboa Bistro,Restaurante
+2,07/10/2023,-10.67,Compras Diárias,Compras
+2,01/10/2023,-115.72,Coimbra Café,Café
+2,11/10/2023,-49.85,Compras Diárias,Compras
+2,19/10/2023,-93.92,Eletrônicos Modernos,Compras
+2,06/10/2023,-78.3,Loja de Roupas,Compras
+2,07/10/2023,-42.44,Eletrônicos Modernos,Compras
+2,18/10/2023,-49.55,Lisboa Bistro,Restaurante
+2,21/10/2023,-139.05,Compras Diárias,Compras
+2,25/10/2023,-37.51,Alimentos Frescos,Supermercado
+2,31/10/2023,-57.18,Coimbra Café,Café
