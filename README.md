@@ -42,3 +42,4 @@ Após iniciar o programa, siga estas etapas básicas:
 Esperamos que o Gestor Financeiro seja útil para a gestão das suas finanças pessoais!
 
 # gestor_financeiro
+# gestor_financeiro
